@@ -36,7 +36,7 @@ img {
 }
 
 /* Webpage Body Background */
-.body {
+main, article {
   padding: 5%;
   background-color: #fde6ae;
 }
